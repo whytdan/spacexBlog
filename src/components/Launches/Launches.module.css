@@ -1,0 +1,10 @@
+
+.Title{
+  text-align: center;
+  margin-top: 20px;
+}
+
+.Wrapper{
+  width: 80% !important;
+  margin: 50px auto !important;
+}
